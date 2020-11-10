@@ -1,7 +1,7 @@
 # A Second look at Exponential and Cosine Step Sizes: Simplicity, Convergence, and Performance
 This repository contains PyTorch codes for the experiments on deep learning in the paper:
 
-**[Exponential Step Sizes for Non-Convex SGD](https://arxiv.org/abs/2002.05273)**  
+**[A Second look at Exponential and Cosine Step Sizes: Simplicity, Convergence, and Performance](https://arxiv.org/abs/2002.05273)**  
 Xiaoyu Li*, Zhenxun Zhuang*, Francesco Orabona
 
 ### Description
